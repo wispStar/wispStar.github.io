@@ -4,8 +4,8 @@ layout: BlogHome
 icon: home
 title: Blog Home
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: mao kai he
-tagline: You can put your slogan here
+heroText: Unbelievable!
+tagline: There's a Changzhou boy who photographed a partial solar eclipse.
 heroFullScreen: true
 projects:
   - icon: project
