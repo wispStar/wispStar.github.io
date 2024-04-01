@@ -9,6 +9,7 @@ tag:
   - 圆
 star: true
 sticky: true
+comment: true
 ---
 
 # 夏至日邂逅“日环食”
