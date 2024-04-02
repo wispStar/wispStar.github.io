@@ -29,9 +29,14 @@ projects:
     link: https://link.to.your.article
 
   - icon: friend
-    name: friend name
-    desc: Detailed description of friend
-    link: https://link.to.your.friend
+    name: ECROF88
+    desc: A software engineer
+    link: https://ecrof88.github.io
+
+  - icon: friend
+    name: DuanYue
+    desc: Groupleader of DUT's CPC
+    link: https://duanyue.top
 
   - icon: https://theme-hope-assets.vuejs.press/logo.svg
     name: custom item

@@ -29,9 +29,14 @@ projects:
     link: https://你的文章链接
 
   - icon: friend
-    name: 伙伴名称
-    desc: 伙伴详细介绍
-    link: https://你的伙伴链接
+    name: ECROF88
+    desc: 一位软件工程师
+    link: https://ecrof88.github.io
+
+  - icon: friend
+    name: DuanYue
+    desc: 大工CPC组长
+    link: https://duanyue.top
 
   - icon: https://theme-hope-assets.vuejs.press/logo.svg
     name: 自定义项目
