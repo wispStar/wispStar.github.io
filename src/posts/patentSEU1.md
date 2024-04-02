@@ -8,7 +8,6 @@ tag:
   - patent
   - SEU
 star: true
-sticky: true
 ---
 
 # Facial Pain Recognition in Rats

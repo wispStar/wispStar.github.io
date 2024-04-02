@@ -8,7 +8,6 @@ tag:
   - 专利
   - 东南大学
 star: true
-sticky: true
 ---
 
 # 大鼠面部疼痛识别
