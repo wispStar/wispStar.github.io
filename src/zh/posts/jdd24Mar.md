@@ -6,6 +6,7 @@ category:
   - 金定都
 tag:
   - 南京师范大学
+  - 人物记录
 star: true
 sticky: true
 ---

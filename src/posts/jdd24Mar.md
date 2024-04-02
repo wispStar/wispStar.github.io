@@ -6,6 +6,7 @@ category:
   - Jin Dingdu
 tag:
   - NJNU
+  - person record
 star: true
 sticky: true
 ---
