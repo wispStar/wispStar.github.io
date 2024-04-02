@@ -3,10 +3,10 @@ cover: /assets/images/HNUnjz.jpg
 icon: pen-to-square
 date: 2020-06-23
 category:
-  - 蔬菜
+  - 倪嘉舟
 tag:
-  - 红
-  - 圆
+  - 摄影
+  - 日食
 star: true
 sticky: true
 ---
