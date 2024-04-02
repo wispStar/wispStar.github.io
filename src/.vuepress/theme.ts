@@ -7,13 +7,13 @@ export default hopeTheme({
   hostname: "https://mister-hope.github.io",
 
   author: {
-    name: "Mr.Maomao",
+    name: "WispStar",
     url: "https://ecrof88.github.io",
   },
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "src/.vuepress/public/assets/icon/guide-maskable.png",
+  logo: "https://en.wikipedia.org/wiki/Line_2_%28Beijing_Subway%29#/media/File:T412_at_Xuanwumen_(20210406181921).jpg",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
@@ -22,7 +22,7 @@ export default hopeTheme({
   blog: {
     medias: {
       Baidu: "https://example.com",
-      BiliBili: "https://example.com",
+      BiliBili: "https://space.bilibili.com/1091870605/?spm_id_from=333.999.0.0",
       Bitbucket: "https://example.com",
       Dingding: "https://example.com",
       Discord: "https://example.com",
