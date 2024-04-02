@@ -7,13 +7,13 @@ export default hopeTheme({
   hostname: "https://mister-hope.github.io",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
+    name: "Mr.Maomao",
+    url: "https://ecrof88.github.io",
   },
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "src/.vuepress/public/assets/icon/guide-maskable.png",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
