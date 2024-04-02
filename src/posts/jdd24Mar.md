@@ -7,7 +7,6 @@ category:
 tag:
   - NJNU
 star: true
-excerpt: true
 ---
 
 Jin Dingdu is a student of the Class of 2025 at Nanjing Normal University. He actively participates in various activities at Nanjing Normal University to enrich his life experience. Not only did he participate in volunteer teaching activities during many holidays, he also took photos with many of the students taught by Teacher Jin (both boys and **girls**); he also shined in the group school and contributed his own efforts to the development of Nanjing Normal University. Youth and vitality. Let's take a look at what he did in March 2024.
