@@ -1,12 +1,11 @@
 ---
-cover: /assets/images/jdd1.jpg
+cover: /assets/images/jdd1.png
 icon: pen-to-square
 date: 2024-04-02
 category:
   - 金定都
 tag:
   - 南京师范大学
-  - 人物记录
 star: true
 sticky: true
 ---

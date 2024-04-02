@@ -1,12 +1,11 @@
 ---
-cover: /assets/images/jdd1.jpg
+cover: /assets/images/jdd1.png
 icon: pen-to-square
 date: 2024-04-02
 category:
   - Jin Dingdu
 tag:
   - NJNU
-  - person record
 star: true
 sticky: true
 ---
