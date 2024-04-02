@@ -4,9 +4,9 @@ layout: BlogHome
 icon: home
 title: 博客主页
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: 没想到吧
+heroText: 你好~
 heroFullScreen: true
-tagline: 在常州新天地花苑小区，竟然有人拍摄到了日偏食
+tagline: 这里是个人主页
 projects:
   - icon: project
     name: 项目名称

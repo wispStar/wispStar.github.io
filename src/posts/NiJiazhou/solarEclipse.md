@@ -34,6 +34,5 @@ Lu Yao, 50 years old, is one of the most experienced astronomy fans in Changzhou
 The last two times Lu Yao photographed the eclipse were in 2010 and 2012, and he was very excited to photograph the eclipse again after eight years. From about 2:00 p.m. to end at about 5:30 p.m., this trip to Xiamen, he took a total of hundreds of photos of the solar eclipse.
 
 According to reports, Lu Yao fell in love with astronomy when Halley's Comet returned in 1986. In order to meet once every 76 years, Lu Yao, who was still in high school at the time, prepared for a year and "chewed" a batch of astronomy books. "At that time, the equipment was very simple. I put together toilet paper tubes, wax paper tubes, mounted convex lenses and concave lenses, made simple monocular astronomical telescope. Now, in addition to professional astronomical telescopes, we also use equatorial instruments to track the trajectory of eclipses." Lu Yao said that witnessing and recording an astronomical spectacle is the happiest thing for astronomy fans.
-*** Translated with www.DeepL.com/Translator (free version) ***
 
 

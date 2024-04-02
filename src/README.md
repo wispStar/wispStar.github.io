@@ -4,8 +4,8 @@ layout: BlogHome
 icon: home
 title: Blog Home
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: Unbelievable!
-tagline: There's a Changzhou boy who photographed a partial solar eclipse.
+heroText: Hello!
+tagline: This is a personal index.
 heroFullScreen: true
 projects:
   - icon: project
