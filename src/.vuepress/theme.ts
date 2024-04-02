@@ -13,7 +13,7 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://en.wikipedia.org/wiki/Line_2_%28Beijing_Subway%29#/media/File:T412_at_Xuanwumen_(20210406181921).jpg",
+  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
@@ -21,37 +21,18 @@ export default hopeTheme({
 
   blog: {
     medias: {
-      Baidu: "https://example.com",
-      BiliBili: "https://space.bilibili.com/1091870605/?spm_id_from=333.999.0.0",
-      Bitbucket: "https://example.com",
-      Dingding: "https://example.com",
-      Discord: "https://example.com",
-      Dribbble: "https://example.com",
-      Email: "mailto:info@example.com",
-      Evernote: "https://example.com",
-      Facebook: "https://example.com",
-      Flipboard: "https://example.com",
-      Gitee: "https://example.com",
-      GitHub: "https://example.com",
-      Gitlab: "https://example.com",
-      Gmail: "mailto:info@example.com",
-      Instagram: "https://example.com",
-      Lark: "https://example.com",
-      Lines: "https://example.com",
-      Linkedin: "https://example.com",
-      Pinterest: "https://example.com",
-      Pocket: "https://example.com",
-      QQ: "https://example.com",
-      Qzone: "https://example.com",
-      Reddit: "https://example.com",
-      Rss: "https://example.com",
-      Steam: "https://example.com",
-      Twitter: "https://example.com",
-      Wechat: "https://example.com",
-      Weibo: "https://example.com",
-      Whatsapp: "https://example.com",
-      Youtube: "https://example.com",
-      Zhihu: "https://example.com",
+      Tieba: "https://tieba.baidu.com/",
+      BiliBili: "https://space.bilibili.com/12298598",
+      Email: "Ylxc2003@163.com",
+      Gitee: "https://gitee.com/",
+      GitHub: "https://github.com/wispStar",
+      Gmail: "Ylxc2003@gmail.com",
+      Twitter: "https://twitter.com",
+      Weibo: "https://weibo.com",
+      XiaoHongShu: "https://www.xiaohongshu.com",
+      XiMaLaYa: "https://www.ximalaya.com",
+      Youtube: "https://youtube.com",
+      Zhihu: "https://zhihu.com",
       MrHope: ["https://mister-hope.com", MR_HOPE_AVATAR],
     },
   },
@@ -69,7 +50,10 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: "A FrontEnd programmer",
+        avatar:"https://avatars.githubusercontent.com/u/98265395?s=400&u=56c7c3a29e1159e4a802391a19296423050665cd&v=4",
+        name: "WispStar",
+        roundAvatar: true,
+        description: "DUTer",
         intro: "/intro.html",
       },
 
@@ -93,7 +77,10 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: "一个前端开发者",
+        avatar:"https://avatars.githubusercontent.com/u/98265395?s=400&u=56c7c3a29e1159e4a802391a19296423050665cd&v=4",
+        name: "逸缕星辰",
+        roundAvatar: true,
+        description: "大车埋土大学在校生",
         intro: "/zh/intro.html",
       },
 
