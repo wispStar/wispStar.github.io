@@ -76,6 +76,25 @@ export const zhNavbar = navbar([
           // "4",
         ],
       },
+      {
+        text: "城市",
+        icon: "pen-to-square",
+        prefix: "City/",
+        children: [
+          {
+            text: "如何探索一个城市",
+            icon: "pen-to-square",
+            link: "ExploreCities",
+          },
+          // {
+          //   text: "小科学家三赴科学T大会",
+          //   icon: "pen-to-square",
+          //   link: "Conference3",
+          // },
+          // "3",
+          // "4",
+        ],
+      },
       { text: "樱桃", icon: "pen-to-square", link: "cherry" },
       { text: "火龙果", icon: "pen-to-square", link: "dragonfruit" },
       "patentSEU1",
