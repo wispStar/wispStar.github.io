@@ -1,6 +1,6 @@
 ---
 cover: /assets/images/jdd1.png
-icon: pen-to-square
+icon: person
 date: 2024-04-02
 category:
   - 金定都

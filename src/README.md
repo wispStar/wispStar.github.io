@@ -31,7 +31,7 @@ projects:
   - icon: friend
     name: ECROF88
     desc: A software engineer
-    link: https://ecrof88.github.io
+    link: https://ecrof88.github.io/zh/
 
   - icon: friend
     name: DuanYue

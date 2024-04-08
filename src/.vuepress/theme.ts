@@ -124,6 +124,7 @@ export default hopeTheme({
       component: true,
       demo: true,
       figure: true,
+      footnote: true,
       imgLazyload: true,
       imgSize: true,
       include: true,

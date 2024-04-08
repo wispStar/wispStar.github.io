@@ -2,11 +2,11 @@
 home: true
 layout: BlogHome
 icon: home
-title: 博客主页
+title: 主页
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: 你好~
+heroText: 你好
 heroFullScreen: true
-tagline: 这里是个人主页
+tagline: 欢迎来到我的个人博客
 projects:
   - icon: project
     name: 项目名称
@@ -31,7 +31,7 @@ projects:
   - icon: friend
     name: ECROF88
     desc: 一位软件工程师
-    link: https://ecrof88.github.io
+    link: https://ecrof88.github.io/zh/
 
   - icon: friend
     name: DuanYue

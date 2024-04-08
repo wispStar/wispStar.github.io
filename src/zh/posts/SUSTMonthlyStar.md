@@ -1,6 +1,6 @@
 ---
 cover: /assets/images/wzy1.jpg
-icon: pen-to-square
+icon: star
 date: 2022-04-07
 category:
   - 王卓扬
@@ -11,7 +11,7 @@ star: true
 sticky: true
 ---
 
-# 团学月度新星丨树仁社区生活委员会：王卓扬
+# 团学月度新星
 
 **谢谢你认识我，祝你生活愉快，作业写得完。**
 

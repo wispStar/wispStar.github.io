@@ -11,7 +11,7 @@ star: true
 sticky: true
 ---
 
-# Tuan Xue Monthly Rising Star丨Shu Ren Community Life Committee: Wang Zhuoyang
+# Tuan Xue Monthly Rising Star
 
 **Thank you for knowing me, I wish you a happy life and finish your homework.**
 

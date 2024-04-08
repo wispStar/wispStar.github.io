@@ -1,6 +1,6 @@
 ---
 cover: /assets/images/SEUsrtp.jpg
-icon: pen-to-square
+icon: microscope
 date: 2024-02-06
 category:
   - 陈璐炜
