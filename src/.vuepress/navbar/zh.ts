@@ -86,11 +86,11 @@ export const zhNavbar = navbar([
             icon: "city",
             link: "ExploreCities",
           },
-          // {
-          //   text: "小科学家三赴科学T大会",
-          //   icon: "pen-to-square",
-          //   link: "Conference3",
-          // },
+          {
+            text: "旅行行李",
+            icon: "pen-to-square",
+            link: "TravelLuggage",
+          },
           // "3",
           // "4",
         ],
