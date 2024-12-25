@@ -13,7 +13,7 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://www.pixiv.net/artworks/125159117",
+  logo: "https://avatars.githubusercontent.com/u/98265395?s=400&u=56c7c3a29e1159e4a802391a19296423050665cd&v=4",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
