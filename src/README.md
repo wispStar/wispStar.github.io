@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: 主页
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
+# heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 heroText: 逸缕星辰
 bgImage: https://i0.wp.com/anitrendz.net/news/wp-content/uploads/2024/07/makeine_ep1_screenshot1.png?resize=696%2C392&ssl=1
 heroFullScreen: true
