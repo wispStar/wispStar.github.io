@@ -6,8 +6,8 @@ export default defineUserConfig({
   base: "/",
 
   lang: "zh-CN",
-  title: "欢迎访问我的博客",
-  description: "逸缕星辰的博客演示",
+  title: "wispstar",
+  description: "这里是我的个人博客",
 
   theme,
 

@@ -2,11 +2,12 @@
 home: true
 layout: BlogHome
 icon: home
-title: 博客主页
+title: 主页
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: 你博客的名称
+heroText: 逸缕星辰
+bgImage: https://i0.wp.com/anitrendz.net/news/wp-content/uploads/2024/07/makeine_ep1_screenshot1.png?resize=696%2C392&ssl=1
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: 逝者如斯夫，不舍昼夜
 projects:
   - icon: project
     name: 项目名称
@@ -29,9 +30,19 @@ projects:
     link: https://你的文章链接
 
   - icon: friend
-    name: 伙伴名称
-    desc: 伙伴详细介绍
-    link: https://你的伙伴链接
+    name: ECROF88
+    desc: rust领域大神
+    link: https://ecrof88.github.io
+
+  - icon: friend
+    name: DuanYue
+    desc: 大工CPC组长
+    link: https://duanyue.top
+
+  - icon: friend
+    name: Resince
+    desc: 超级前端工程师
+    link: https://resince.fun
 
   - icon: https://theme-hope-assets.vuejs.press/logo.svg
     name: 自定义项目
